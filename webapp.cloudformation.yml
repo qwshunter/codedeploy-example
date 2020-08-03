@@ -5,10 +5,10 @@ Parameters:
     Default: nikolas
   WebappSubnets:
     Type: CommaDelimitedList
-    Default: subnet-063c705f, subnet-bd6155ca, subnet-fb2c209e
+    Default: subnet-5ac5c132, subnet-5d275211, subnet-cd219db6
   ALBSubnets:
     Type: CommaDelimitedList
-    Default: subnet-063c705f, subnet-bd6155ca, subnet-fb2c209e
+    Default: subnet-5ac5c132, subnet-5d275211, subnet-cd219db6
   MinSize:
     Type: Number
     Default: 1
@@ -17,7 +17,7 @@ Parameters:
     Default: 2
   VPC:
     Type: String
-    Default: vpc-ff84de9a
+    Default: vpc-1effe076
   AMIID:
     Type: String
     Default: ami-4df23734
