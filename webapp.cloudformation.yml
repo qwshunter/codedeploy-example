@@ -20,7 +20,7 @@ Parameters:
     Default: vpc-1effe076
   AMIID:
     Type: String
-    Default: ami-4df23734
+    Default: ami-02d55cb47e83a99a0
 Resources:
   WebappApplication:
     Type: "AWS::CodeDeploy::Application"
