@@ -21,18 +21,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hallian/codedeploy-example.git"
+    "url": "git+https://github.com/qwshunter/codedeploy-example.git"
   },
   "keywords": [
     "aws",
     "codedeploy"
   ],
-  "author": "Nikolas Lahtinen",
+  "author": "Rahul Srivastava",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hallian/codedeploy-example/issues"
+    "url": "https://github.com/qwshunter/codedeploy-example/issues"
   },
-  "homepage": "https://github.com/Hallian/codedeploy-example#readme",
+  "homepage": "https://github.com/qwshunter/codedeploy-example#readme",
   "dependencies": {
   }
 }
