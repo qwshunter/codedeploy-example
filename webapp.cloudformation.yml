@@ -2,7 +2,7 @@
 Parameters:
   KeyName:
     Type: String
-    Default: qwshunter
+    Default: aws-key-pair
   WebappSubnets:
     Type: CommaDelimitedList
     Default: subnet-5ac5c132, subnet-5d275211, subnet-cd219db6
