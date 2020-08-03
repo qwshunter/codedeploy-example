@@ -2,7 +2,7 @@
 Parameters:
   KeyName:
     Type: String
-    Default: nikolas
+    Default: qwshunter
   WebappSubnets:
     Type: CommaDelimitedList
     Default: subnet-5ac5c132, subnet-5d275211, subnet-cd219db6
